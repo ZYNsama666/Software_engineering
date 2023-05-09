@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T10:35:13.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="eazv6skAeEtdfzY9i9ok" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T10:36:14.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="CybKWitr6xReb4-IdJa_" version="21.2.9" type="github">
   <diagram name="第 1 页" id="hOyzLxaxijEK4B6aJGhl">
     <mxGraphModel dx="936" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
         <mxCell id="uC_L6_uWnjtG9Q4Gqkhg-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uC_L6_uWnjtG9Q4Gqkhg-50" target="uC_L6_uWnjtG9Q4Gqkhg-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uC_L6_uWnjtG9Q4Gqkhg-50" value="验证学校身份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uC_L6_uWnjtG9Q4Gqkhg-50" value="统一身份认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="662.5" y="328" width="145" height="36" as="geometry" />
         </mxCell>
         <mxCell id="uC_L6_uWnjtG9Q4Gqkhg-51" value="注册完毕" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
