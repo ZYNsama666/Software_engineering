@@ -1,14 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T10:43:02.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="J4E5gWutFrdrEpwWIGEx" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T10:45:14.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="0Bca5Cvz3cG98Pyp_1G0" version="21.2.9" type="github">
   <diagram name="第 1 页" id="u69A9PxZdoqH9lMqocLD">
     <mxGraphModel dx="936" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fe722L3e7CBLhRDmTXED-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fe722L3e7CBLhRDmTXED-2" target="fe722L3e7CBLhRDmTXED-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fe722L3e7CBLhRDmTXED-2" value="用户模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="643" y="116" width="90" height="30" as="geometry" />
+        <mxCell id="fe722L3e7CBLhRDmTXED-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="fe722L3e7CBLhRDmTXED-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="688" y="146" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fe722L3e7CBLhRDmTXED-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fe722L3e7CBLhRDmTXED-5" target="fe722L3e7CBLhRDmTXED-6">
           <mxGeometry relative="1" as="geometry">
@@ -86,6 +85,49 @@
         </mxCell>
         <mxCell id="fe722L3e7CBLhRDmTXED-17" value="联系管理员模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="997" y="245" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="fe722L3e7CBLhRDmTXED-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fe722L3e7CBLhRDmTXED-19" target="fe722L3e7CBLhRDmTXED-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fe722L3e7CBLhRDmTXED-19" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="628" y="90" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="fe722L3e7CBLhRDmTXED-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fe722L3e7CBLhRDmTXED-21" target="fe722L3e7CBLhRDmTXED-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="688" y="661" />
+              <mxPoint x="436" y="661" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fe722L3e7CBLhRDmTXED-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fe722L3e7CBLhRDmTXED-21" target="fe722L3e7CBLhRDmTXED-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fe722L3e7CBLhRDmTXED-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fe722L3e7CBLhRDmTXED-21" target="fe722L3e7CBLhRDmTXED-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fe722L3e7CBLhRDmTXED-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fe722L3e7CBLhRDmTXED-21" target="fe722L3e7CBLhRDmTXED-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="688" y="660" />
+              <mxPoint x="940" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fe722L3e7CBLhRDmTXED-21" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="628" y="562" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="fe722L3e7CBLhRDmTXED-22" value="处理借用物品模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="723" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="fe722L3e7CBLhRDmTXED-24" value="反馈故障报修模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="547" y="723" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="fe722L3e7CBLhRDmTXED-26" value="处理宿舍更换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="711" y="723" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="fe722L3e7CBLhRDmTXED-28" value="回答信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="723" width="120" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
